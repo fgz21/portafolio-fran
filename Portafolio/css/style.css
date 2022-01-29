@@ -1,0 +1,28 @@
+body{
+	
+	height: 100vh;
+}
+
+.nav-link{
+	color: #4ECDC4;
+}
+
+.nav-link:hover {
+     color:#2980b9 ;
+}
+
+
+#part1, .titulo-1 {
+	font-family: 'Bitter', serif;
+	font-size: 30px;
+	list-style: none;
+
+}
+
+.primer-btn{
+	color:#2980b9;
+}
+
+
+
+
